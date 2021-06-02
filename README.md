@@ -1,4 +1,9 @@
-### Hi there 👋
+### Multiuser Morphable Model
+This project is in the field of Computer Supported Collaborative work.
+It's the idea that multiple users can collaborate to make a knowledgebase which the evolves over time as the users' world changes.
+
+
+
 
 <!--
 **Multiuser-Morphable-Model/Multiuser-Morphable-Model** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
